@@ -5,14 +5,14 @@ import time
 
 from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont, ImageOps
 
-IMAGE_PATH = "Türkiye.png"
+IMAGE_PATH = "modi.jpeg"
 OUT_PATH = ""
 
 BG = (0, 0, 0)
 NEON_GLOW = 0.0
 NEON_RADIUS = 0.0025
 
-TEXT_PHRASE = "TÜRKİYE  "
+TEXT_PHRASE = "OM MODI NAMAH "
 TEXT_FONT = ""
 FONT_CANDIDATES = ["segoeuib.ttf", "arialbd.ttf", "calibrib.ttf", "georgiab.ttf", "Arial Bold.ttf",
                    "DejaVuSans-Bold.ttf", "LiberationSans-Bold.ttf", "Poppins-Bold.ttf"]
@@ -31,7 +31,7 @@ SPEED_RATIO = 3.0
 WIN_H_FRAC = 0.92
 SIDE_MARGIN = 0.05
 
-WINDOW_TITLE = "Mustafa Kemal ATATÜRK"
+WINDOW_TITLE = "Aniket pathak"
 
 
 def load_source(path):

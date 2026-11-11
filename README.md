@@ -1,26 +1,114 @@
-# Atatürk & Türkiye Yazı Sanatı 🇹🇷
+# MODI – Generative Typography Art
 
-Python ile üretilmiş iki yazı sanatı çalışması. İkisi de görseli **"TÜRKİYE"** kelimesinin harfleriyle çiziyor.
+**Where Mathematics Meets Typography and Digital Art.**
 
-<table>
-  <tr>
-    <td><img width="100%" alt="Atatürk Spirali" src="https://github.com/user-attachments/assets/9025ff08-506e-4110-979a-313df0f9a786" /></td>
-    <td><img width="100%" alt="Türkiye Spirali" src="https://github.com/user-attachments/assets/04d213f6-f42e-4568-a5dd-df76856bd7f1" /></td>
-  </tr>
-</table>
+MODI is a creative Python-based generative typography project that transforms repeated text into a detailed visual composition.
 
-## 1. Atatürk Spirali
-Atatürk fotoğrafı ve Türk bayrağı, spiral boyunca dizilen "TÜRKİYE" harfleriyle çizilir. Bayrak koddan çizilir, harflerin renkleri fotoğraftan alınır.
+Using mathematical positioning, spiral patterns, typography, and vibrant colour variations, the project creates an intricate artwork in which thousands of text elements combine to form a larger visual design.
 
-▶️ **Çalıştırmak için:** `ATATURK.py` dosyasını aç ve çalıştır. (`ataturk.png` aynı klasörde olmalı.)
+---
 
-## 2. Türkiye Spirali
-Herhangi bir fotoğrafı spiral yazıya çevirir. Varsayılan görsel `Türkiye.png`; istersen kendi fotoğrafını seçebilirsin.
+## Artwork Preview
 
-▶️ **Çalıştırmak için:** `Türkiye.py` dosyasını aç ve çalıştır. (`Türkiye.png` aynı klasörde olmalı.)
+![MODI Generative Typography Artwork](assets/modi-artwork.png)
 
-## Kontroller
-`S` kaydet · `R` baştan başlat · `Esc` çık
+*A detailed typography composition featuring repeated text arranged in a spiral-inspired pattern.*
 
-## Gereksinimler
-`pip install pillow numpy`
+---
+
+## Features
+
+- **Generative Typography:** Creates artwork using repeated words and phrases.
+- **Spiral-Based Composition:** Arranges text into intricate circular and spiral patterns.
+- **Dynamic Colour Design:** Uses vibrant gradients and colour variations.
+- **High-Density Rendering:** Combines numerous text elements to create detailed artwork.
+- **Mathematical Positioning:** Uses geometric calculations to arrange typography.
+- **Creative Visualization:** Combines programming and digital art.
+
+---
+
+## How It Works
+
+The artwork is generated through a combination of computational and visual techniques:
+
+1. **Text Generation:** Repeated text is used as the primary visual element.
+2. **Geometric Mapping:** Mathematical calculations determine text positions and orientations.
+3. **Typography Rendering:** Individual text elements are arranged to construct the composition.
+4. **Colour Mapping:** Different colours create depth, contrast, and visual effects.
+5. **Final Rendering:** All elements combine to produce the finished artwork.
+
+---
+
+## Technologies
+
+- Python
+- NumPy
+- Pillow (PIL)
+- Mathematical Geometry
+- Computational Typography
+- Image Processing
+- Generative Art
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Aniketpathakk/MODI.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd MODI
+```
+
+Install the dependencies:
+
+```bash
+pip install pillow numpy
+```
+
+Run the project:
+
+```bash
+python main.py
+```
+
+*Update the script name and dependencies according to the actual implementation.*
+
+---
+
+## Project Structure
+
+```text
+MODI/
+│
+aniketpathakk
+├── modi.py
+├── assets/
+│   └── modi-artwork.png
+│
+├── README.md
+└── requirements.txt
+```
+
+---
+
+## Author
+
+**Aniket Pathak**
+
+Computer Science & Engineering | Python | Creative Technology | Generative Art
+
+GitHub: [@Aniketpathakk](https://github.com/Aniketpathakk)
+
+Repository: [MODI](https://github.com/Aniketpathakk/MODI)
+
+---
+
+If you find this project interesting, consider giving the repository a ⭐ star!
+
+**Created with Python, mathematics, and creativity.**
